@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  snpkt_ttr
 //
-//  Created by Ahlatci on 11.03.2024.
+//  Created by Ö.Ş on 11.03.2024.
 //
 
 import UIKit
